@@ -24,8 +24,9 @@ I work in **logistics operations** at a pharmaceutical distribution center in Su
 
 | Project | What it does |
 |---|---|
+| [❄️ cold-chain-monitor](https://github.com/CelsoJr011/cold-chain-monitor) | Temperature logs for 2–8 °C medicine deliveries: excursions, missing data and a release / review / quarantine verdict with the reasons · EN/PT/FR · [demo](https://celsojr011.github.io/cold-chain-monitor/) |
 | [⚽ fan-season-tracker](https://github.com/CelsoJr011/fan-season-tracker) | Match diary and season stats for Ponte Preta and Barcelona: form, streaks, projection and a points race chart · EN/PT/FR · [demo](https://celsojr011.github.io/fan-season-tracker/) |
-| [💊 fefo-pharma-stock](https://github.com/CelsoJr011/fefo-pharma-stock) | Batch and expiry control for a pharma warehouse, with FEFO picking suggestions · [demo](https://celsojr011.github.io/fefo-pharma-stock/) |
+| [💊 fefo-pharma-stock](https://github.com/CelsoJr011/fefo-pharma-stock) | Batch and expiry control for a pharma warehouse, with FEFO picking suggestions · EN/PT/FR · [demo](https://celsojr011.github.io/fefo-pharma-stock/) |
 | [🛠️ helpdesk-lite](https://github.com/CelsoJr011/helpdesk-lite) | IT ticket system with dashboard, SLA tracking and CSV export · [demo](https://celsojr011.github.io/helpdesk-lite/) |
 
 ### Let's connect
